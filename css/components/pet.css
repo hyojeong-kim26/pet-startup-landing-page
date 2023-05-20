@@ -1,0 +1,6 @@
+.pet-image
+{
+    width: 320px;
+    height: 320px; /* Set a fixed height for the images */
+    object-fit: cover; /* Crop and scale images to cover their container */
+}

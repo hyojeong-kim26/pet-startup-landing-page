@@ -1,0 +1,36 @@
+
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/cards.css");
+@import url("components/navbar.css");
+@import url("https://fonts.googleapis.com/css2?family=Lora&family=Roboto");
+@import url("components/pet.css");
+@import url("components/pet-link.css");
+@import url("components/about.css");
+@import url("components/footer.css");
+body {
+	font-family: Lora, serif;
+	font-size: 18px;
+}
+
+h1, h2, h3 {
+	font-family: Roboto, serif;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}
+
+
+
+html {
+	scroll-behavior: smooth;
+}
+body
+{
+	padding: 0;
+    margin: 0;
+}
